@@ -1,2 +1,2 @@
-# Tools-for-Data-Science
-Final Assignment: Create and Share Jupyter Notebook
+# Coursera Data Science Coursework
+Projects and Final Assignments
